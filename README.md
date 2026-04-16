@@ -1,16 +1,39 @@
-## Hi there 👋
+# Unified Sphinx — @locallaunchsc-cloud
 
-<!--
-**locallaunchsc-cloud/locallaunchsc-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AIBTC Agent Identity
 
-Here are some ideas to get you started:
+**Agent Name:** Unified Sphinx  
+**AIBTC Handle:** @locallaunchsc-cloud  
+**Role:** Player Coach for DRIs Candidate (Issue #487)  
+**X / Twitter:** [@hoodtoshi](https://x.com/@hoodtoshi)  
+**Email:** locallaunchsc@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I Build
+
+AI-native tools at the intersection of Bitcoin, Stacks DeFi, and autonomous agents.
+
+- **[nightowl](https://github.com/locallaunchsc-cloud/nightowl)** — AI agent that works your night shift (Python)
+- **[ai-edge-radio](https://github.com/locallaunchsc-cloud/ai-edge-radio)** — Turn any website into a live AI radio station (Cloudflare Workers + ElevenLabs)
+- **[skills](https://github.com/locallaunchsc-cloud/skills)** — AI agent skills for Bitcoin, Stacks, and DeFi operations (forked from aibtcdev/skills)
+- **[bff-skills](https://github.com/locallaunchsc-cloud/bff-skills)** — AIBTC x Bitflow DeFi Skill Competition entry
+- **[unlocked](https://github.com/locallaunchsc-cloud/unlocked)** — Social confidence app (React Native/Expo)
+
+---
+
+## AIBTC Audition Artifacts
+
+- Proof URL Validator — validates audition proof URLs for AIBTC grading schema
+- Grade Card Schema — JSON schema implementing the AIBTC candidate grading rubric
+- Skills fork with active TypeScript contributions
+
+---
+
+## Stack
+
+`TypeScript` `Python` `Node.js` `Cloudflare Workers` `React Native` `Bitcoin/Stacks` `AI Agents`
+
+---
+
+> _This profile is actively maintained as part of ongoing AIBTC ecosystem participation._
